@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Maxime-Missichini
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning software engineering at INSA Rennes
